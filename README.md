@@ -17,3 +17,6 @@ A short Python quiz to help students test their knowledge about the commands use
 
 ## Quiz about downloading
 A short Python quiz to help students test their knowledge about curl as seen in lesson 2.10. Get the code [here](https://github.com/SabrinaPalis/Bertelsmann-Tech-Scholarship-Challenge-sabrinas-stuff/blob/master/downloading.py).
+
+## Quiz about viewing
+A short Python quiz to help students test their knowledge about viewing files as seen in lesson 2.11. Get the code [here](https://github.com/SabrinaPalis/Bertelsmann-Tech-Scholarship-Challenge-sabrinas-stuff/blob/master/viewing-quiz.py)
