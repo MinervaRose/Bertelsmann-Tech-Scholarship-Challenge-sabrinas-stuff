@@ -14,3 +14,6 @@ A short Python quiz to help students test their knowledge about navigating direc
 
 ## Quiz about organizing files
 A short Python quiz to help students test their knowledge about the commands used to organise files here. Get the code [here](https://github.com/SabrinaPalis/Bertelsmann-Tech-Scholarship-Challenge-sabrinas-stuff/blob/master/organizing-files-quiz.py).
+
+## Quiz about downloading
+A short Python quiz to help students test their knowledge about curl as seen in lesson 2.10. Get the code [here](https://github.com/SabrinaPalis/Bertelsmann-Tech-Scholarship-Challenge-sabrinas-stuff/blob/master/downloading.py).
