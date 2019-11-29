@@ -1,6 +1,6 @@
 # This questionnaire was created by Sabrina Palis
 # during the Bertelsmann Scholarship Challenge 2019
-# It focuses on the commands to navigate directories.
+# It focuses on curl.
 
 import random
 
