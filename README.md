@@ -8,7 +8,7 @@ During the foundational course, I created several projects to contribute to the 
 Students in the community were encouraged through groups or directly on Slack channels to fork and contribute to the projects as a way of practising their newly acquired skills.
 
  
- # 8 December 2019 - # cloud-fundamental-quiz
+ # 8 December 2019 - Cloud Fundamental Quiz - a JavasScript Quiz about the AWS lessons.
 
 <img src="https://user-images.githubusercontent.com/39020690/70385726-d1c19880-195d-11ea-8c17-143d494c06eb.png" width="600">
 
